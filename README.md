@@ -14,7 +14,7 @@ My route into hydrology started in geology, which I built on through GIS and rem
 In every project I aim for **quality control data, and results written up so a decision-maker can act on them.**
 
 **🔭 Next:** building an FEH-style flood frequency analysis that carries rating-curve uncertainty into design flood estimates.  
-**🤝 Open to:** conversations about groundwater, flood and climate-risk modelling, and a PhD research placement in 2027.
+**🤝 Open to:** conversations, research collaborations and opportunities across hydrology, groundwater, flood risk, climate-risk modelling, geospatial science and environmental AI. Also interested in industry engagement and placement in 2027.
 
 ---
 
