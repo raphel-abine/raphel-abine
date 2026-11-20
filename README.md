@@ -2,9 +2,11 @@
 
 **Hydrological modeller with a geology background, working on groundwater, flood and water-resource risk.**
 
-I'm a UKRI-funded Doctoral Researcher at **Brunel University London**, building deep-learning models for streamflow prediction, including the snowmelt contribution in mountain catchments. I came to hydrology through geology: engineering and environmental geology, then groundwater modelling and hydrochemistry, then GIS and Earth observation. So I approach a model from the ground up: what the aquifer, soils and gauging station can actually tell us, before I trust what the model says.
+I'm a UKRI-funded Doctoral Researcher at **Brunel University London**, developing deep-learning models that integrate remote sensing and environmental data to improve streamflow prediction in mountain catchments, with a particular focus on the contribution of snowmelt.
 
-What I try to bring to every project: **models that are checked before they're trusted, data whose quality has been questioned, and results written up so a decision-maker can act on them.**
+My route into hydrology started in geology, which I built on through GIS and remote sensing, followed by hydrogeology and groundwater modelling. That background shapes how I approach modelling: I start with what the geology, soils and gauging records can tell me, and test a model against the available evidence before I trust its results.
+
+In every project I aim for **data whose quality has been questioned, and results written up so a decision-maker can act on them.**
 
 ---
 
@@ -80,4 +82,4 @@ Each project is written up as a technical report, with reproducible scripts and 
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/g
+📫 [LinkedIn](https://www.linkedin.com/in/gistech2021)
