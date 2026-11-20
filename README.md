@@ -2,7 +2,6 @@
 
 **Hydrological modeller | Geoscience, GIS, remote sensing and AI for water resources and environmental risk management.**
 
-Why this works
 <p align="center">
   <a href="https://github.com/raphel-abine/aire-pdm-flood-forecasting"><img src="https://raw.githubusercontent.com/raphel-abine/aire-pdm-flood-forecasting/main/figures/forecast_skill.png" alt="PDM flood forecast skill and Boxing Day 2015 forecasts on the River Aire" width="90%"></a>
 </p>
