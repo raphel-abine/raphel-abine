@@ -50,7 +50,6 @@ Turning model output into risk-relevant numbers: flood peaks, exceedance of warn
 </p>
 <p align="center"><sub><b>UK benchmark:</b> best model per catchment, and the LSTM's gain over the GR models</sub></p>
 
-Each project is written up as a technical report, with reproducible scripts and all the results tables.
 
 **Coming next:** FEH-style flood frequency analysis with rating uncertainty · a fully scripted UK groundwater model (MODFLOW 6 in FloPy) built from public BGS and EA data, so the code can be shared openly · mangrove change and blue carbon in Cameroon from satellite data.
 
