@@ -67,7 +67,7 @@ Each project is written up as a technical report, with reproducible scripts and 
 - 🎓 **PhD**, Brunel University London (UKRI-funded, 2025–): deep learning for streamflow prediction
 - 🎓 **MSc Sustainable Land Management (Land and Groundwater Management)**, Ghent University (Cum Laude): hydrogeology, groundwater modelling (MODFLOW 6), geophysics, groundwater chemistry, soil-water management, EIA
 - 🎓 **MSc GIS**, University of Portsmouth (Distinction; Best MSc Dissertation 2020)
-- 🎓 **MSc Applied Geology** (Senate award for best graduating student, 2017) and **BSc Geology**, University of Buea
+- 🎓 **BSc Geology**, University of Buea (Senate award for best graduating student, 2017) 
 - 🧑‍🏫 Teaching: delivered GIS training courses; Graduate Teaching Assistant at Brunel
 - 💧 Student Member of **CIWEM** · Member of the **AGI**
 
