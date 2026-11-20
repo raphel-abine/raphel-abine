@@ -11,9 +11,9 @@ I'm a UKRI-funded Doctoral Researcher at **Brunel University London**, developin
 
 My route into hydrology started in geology, which I built on through GIS and remote sensing, followed by hydrogeology and groundwater modelling. That background shapes how I approach modelling: I start with what the geology, soils and gauging records can tell me, and test a model against the available evidence before I trust its results.
 
-In every project I aim for **data whose quality has been questioned, and results written up so a decision-maker can act on them.**
+In every project I aim for **quality control data, and results written up so a decision-maker can act on them.**
 
-**🔭 Currently:** building an FEH-style flood frequency analysis that carries rating-curve uncertainty into design flood estimates.  
+**🔭 Next:** building an FEH-style flood frequency analysis that carries rating-curve uncertainty into design flood estimates.  
 **🤝 Open to:** conversations about groundwater, flood and climate-risk modelling, and a PhD research placement in 2027.
 
 ---
@@ -22,7 +22,7 @@ In every project I aim for **data whose quality has been questioned, and results
 
 **💧 Groundwater and hydrogeology**
 
-Groundwater flow modelling in **MODFLOW 6**, including steady-state and transient calibration, sensitivity analysis and **source protection zone delineation** around abstraction wells. Hydrogeological site characterisation with **geophysics (ERT, GPR, EMI)**, covering perched aquifers, freshwater lenses and saltwater intrusion. Groundwater chemistry and soil-water modelling (**HYDRUS-1D**). Trained at Ghent University (MSc Land and Groundwater Management), with an MSc dissertation on groundwater sustainability in urban Cameroon.
+Groundwater flow modelling in **MODFLOW 6**, including steady-state and transient calibration, sensitivity analysis and **source protection zone delineation** around abstraction wells. Hydrogeological site characterisation with **geophysics (ERT, GPR, EMI)**, covering different aquifers, freshwater lenses and saltwater intrusion. Groundwater chemistry and soil-water modelling (**HYDRUS-1D**). Trained at Ghent University (MSc Land and Groundwater Management), with an MSc dissertation on groundwater sustainability in urban Cameroon.
 
 **🌊 Flood forecasting and hydrology**
 
@@ -84,7 +84,7 @@ Each project is written up as a technical report, with reproducible scripts and 
 - 🎓 **PhD**, Brunel University London (UKRI-funded, 2025–): deep learning for streamflow prediction
 - 🎓 **MSc Sustainable Land Management (Land and Groundwater Management)**, Ghent University (Cum Laude): hydrogeology, groundwater modelling (MODFLOW 6), geophysics, groundwater chemistry, soil-water management, EIA
 - 🎓 **MSc GIS**, University of Portsmouth (Distinction; Best MSc Dissertation 2020)
-- 🎓 **MSc Applied Geology** (Senate award for best graduating student, 2017) and **BSc Geology**, University of Buea
+- 🎓 **BSc Geology**, University of Buea (Senate award for best graduating student, 2015) 
 - 🧑‍🏫 Teaching: delivered GIS training courses; Graduate Teaching Assistant at Brunel
 - 💧 Student Member of **CIWEM** · Member of the **AGI**
 
